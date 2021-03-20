@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![] https://cdn.glitch.com/768fa9cd-8cad-48b8-92d9-3f238a2321e0%2Fezgif.com-gif-maker.gif?v=1616261599408
+
 
 
 ## Reflection Questions
@@ -47,13 +48,14 @@ Here's a walkthrough of implemented user stories:
 [I did not use any outside resources]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[I encountered a challenge with the audio playing. It seems like everything worked except for the sound output. I then realizes it was an issue wih my computer because I continously compared the project spec with my code.]
+[I encountered a challenge with the audio playing. The buttons would also remain lit per turn. I continously compared my code to the project spec for two days. I then contacted Code Path's team and was able to resolve my issue. My code was correct, however I was using Safari which was not compatible for this project. ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[Are most webpages just a combiantion of html and css? Is it literally just paragraphs and header put together? How do you imput user data into a webpage and constantly update said user data?]
+[Are most webpages just a combination of html and css? Is it literally just paragraphs and header put together? How do you imput user data into a webpage and constantly update said user data?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[If I had a few more hours, I would work on impleteing levels to this game. Once you complete a level more buttons will appear. I would also have more than one sound played per each cycle. ]
+[If I had a few more hours, I would work on implementing levels to this game. Once you complete a level more buttons will appear. I would also have more than one sound played per each cycle.]
+
 
 
 
